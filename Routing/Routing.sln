@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routing", "Routing\Routing.csproj", "{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E0203B4-67A4-4CF7-B401-F8B31C022854}
+	EndGlobalSection
+EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routing", "Routing\Routing.csproj", "{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC2C65-33A0-457D-BFCB-3E38B2D98034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E0203B4-67A4-4CF7-B401-F8B31C022854}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78

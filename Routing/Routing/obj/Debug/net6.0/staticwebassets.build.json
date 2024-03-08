@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+{
+  "Version": 1,
+  "Hash": "iTlZ94WylgMHq6VJzzjGuNIQkfvqsSVD1M4eSCpK3Jw=",
+  "Source": "Routing",
+  "BasePath": "_content/Routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Routing\\wwwroot",
+      "Source": "Routing",
+      "ContentRoot": "C:\\.NetCore_Projects\\Routing\\Routing\\wwwroot\\",
+      "BasePath": "_content/Routing",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+=======
+{
+  "Version": 1,
+  "Hash": "iTlZ94WylgMHq6VJzzjGuNIQkfvqsSVD1M4eSCpK3Jw=",
+  "Source": "Routing",
+  "BasePath": "_content/Routing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Routing\\wwwroot",
+      "Source": "Routing",
+      "ContentRoot": "C:\\.NetCore_Projects\\Routing\\Routing\\wwwroot\\",
+      "BasePath": "_content/Routing",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}
