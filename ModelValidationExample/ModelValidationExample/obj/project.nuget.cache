@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "sNrD77KUefbFbaQQNPrjhL84sdS2cVZ5hfEFgCV2SCKuAhmqhzSwiqFRCNadfxEyzjB8QC4/ganFWXTElfG3JA==",
+  "success": true,
+  "projectFilePath": "C:\\.NetCore_Projects\\ModelValidationExample\\ModelValidationExample\\ModelValidationExample.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "sNrD77KUefbFbaQQNPrjhL84sdS2cVZ5hfEFgCV2SCKuAhmqhzSwiqFRCNadfxEyzjB8QC4/ganFWXTElfG3JA==",
+  "success": true,
+  "projectFilePath": "C:\\.NetCore_Projects\\ModelValidationExample\\ModelValidationExample\\ModelValidationExample.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}

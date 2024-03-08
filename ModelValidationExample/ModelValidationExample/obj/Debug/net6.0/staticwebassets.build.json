@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+{
+  "Version": 1,
+  "Hash": "KEVqu338EXbf0UseLVqPSKed913JbrOaSwreSNN31AQ=",
+  "Source": "ModelValidationExample",
+  "BasePath": "_content/ModelValidationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+=======
+{
+  "Version": 1,
+  "Hash": "KEVqu338EXbf0UseLVqPSKed913JbrOaSwreSNN31AQ=",
+  "Source": "ModelValidationExample",
+  "BasePath": "_content/ModelValidationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}
