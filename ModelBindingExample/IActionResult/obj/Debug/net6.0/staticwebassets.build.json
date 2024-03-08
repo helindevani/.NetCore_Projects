@@ -1,0 +1,80 @@
+<<<<<<< HEAD
+{
+  "Version": 1,
+  "Hash": "HkIC2N8905TeykAsvgyIwmemO0iedwgfO1sNhnNAT3Y=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\React.pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "React.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\React.pdf"
+    }
+  ]
+=======
+{
+  "Version": 1,
+  "Hash": "HkIC2N8905TeykAsvgyIwmemO0iedwgfO1sNhnNAT3Y=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\React.pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NetCore_Projects\\IActionResult\\IActionResult\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "React.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\React.pdf"
+    }
+  ]
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}
