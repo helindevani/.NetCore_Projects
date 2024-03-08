@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IActionResultExample/1.0.0": {
+        "runtime": {
+          "IActionResultExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IActionResultExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IActionResultExample/1.0.0": {
+        "runtime": {
+          "IActionResultExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IActionResultExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}
