@@ -1,0 +1,80 @@
+<<<<<<< HEAD
+{
+  "Version": 1,
+  "Hash": "ELAugF1xMbUvB5YYEX4V/D/Q5yDd88B1DZiNs2xaF8c=",
+  "Source": "ControllerExample",
+  "BasePath": "_content/ControllerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerExample\\wwwroot",
+      "Source": "ControllerExample",
+      "ContentRoot": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\React.pdf",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "React.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\React.pdf"
+    }
+  ]
+=======
+{
+  "Version": 1,
+  "Hash": "imBztbvqi+ABs20Xp/lM0O/Ihg1WdskUYL5EwzNGnmM=",
+  "Source": "Controller",
+  "BasePath": "_content/Controller",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controller\\wwwroot",
+      "Source": "Controller",
+      "ContentRoot": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\",
+      "BasePath": "_content/Controller",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\React.pdf",
+      "SourceId": "Controller",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NetCore_Projects\\Controller\\Controller\\wwwroot\\",
+      "BasePath": "_content/Controller",
+      "RelativePath": "React.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\React.pdf"
+    }
+  ]
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}

@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "amhUoKbTtD6/q6CjFxV+FKvDn8/vKJQtI7a6s/AqJNyAain4dWWsAHhZRUyigfo8aU0q19+qsJ4989jWBIahnw==",
+  "success": true,
+  "projectFilePath": "C:\\.NetCore_Projects\\Controller\\Controller\\ControllerExample.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "xVa31iLEVOP+VX0nBPlxaxGxjARFY2y9CuGnzM6U7YNIOHmkhnboVOBU9gcGueWFrfSScpCVPXOiEySJorj3fQ==",
+  "success": true,
+  "projectFilePath": "C:\\.NetCore_Projects\\Controller\\Controller\\Controller.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+}

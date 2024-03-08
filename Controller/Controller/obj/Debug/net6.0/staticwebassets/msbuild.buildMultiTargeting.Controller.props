@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+﻿<Project>
+  <Import Project="..\build\Controller.props" />
+=======
+﻿<Project>
+  <Import Project="..\build\Controller.props" />
+>>>>>>> 84ef70a4525f3b65b6294732992407190e86ba78
+</Project>
