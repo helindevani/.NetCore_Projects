@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\.NetCore_Projects\\CRUDSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\.netcore_projects\\crudsolution\\crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Create.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Create.cshtml",
-              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Create.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Delete.cshtml",
+              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T09:02:46.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_GridColumnHeader.cshtml",
-              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T08:35:04.677Z",
+              "WhenOpened": "2024-03-14T13:11:26.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\Persons\\Index.cshtml",
-              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T07:44:23.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\.NetCore_Projects\\CRUDSolution\\CRUDExample\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "CRUDExample\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAowDwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:41:18.173Z",
+              "WhenOpened": "2024-03-14T13:08:23.544Z",
               "EditorCaption": ""
             }
           ]
