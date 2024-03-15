@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CRUDSolution",
+    "\\CRUDSolution\\CRUDExample",
+    "\\CRUDSolution\\Entities"
   ],
+  "SelectedNode": "\\CRUDSolution\\Entities\\PersonsDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
