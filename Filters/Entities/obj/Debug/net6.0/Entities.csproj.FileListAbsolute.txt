@@ -1,0 +1,15 @@
+D:\.NetCore_Projects\Filters\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\.NetCore_Projects\Filters\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\.NetCore_Projects\Filters\Entities\bin\Debug\net6.0\Entities.dll
+D:\.NetCore_Projects\Filters\Entities\bin\Debug\net6.0\Entities.pdb
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.dll
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.pdb
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+D:\.NetCore_Projects\Filters\Entities\obj\Debug\net6.0\ref\Entities.dll
