@@ -1,0 +1,121 @@
+2024-03-20 12:34:44.110 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-20 12:34:44.133 +05:30 [INF] Hosting environment: Development
+2024-03-20 12:34:44.139 +05:30 [INF] Content root path: D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.UI\
+2024-03-20 12:46:46.564 +05:30 [INF] User profile is available. Using 'C:\Users\Helin Devani\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-20 12:46:47.098 +05:30 [INF] Now listening on: http://localhost:5153
+2024-03-20 12:46:52.318 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:46:52.318 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:46:52.390 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 83.9472ms
+2024-03-20 12:46:52.706 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 402.5950ms
+2024-03-20 12:46:54.593 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Countries/UploadFromExcel - -
+2024-03-20 12:46:54.745 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Countries/UploadFromExcel
+2024-03-20 12:46:55.678 +05:30 [INF] Executing endpoint 'CRUDExample.Controllers.CountriesController.UploadFromExcel (ContactsManager.UI)'
+2024-03-20 12:46:55.721 +05:30 [INF] Route matched with {action = "UploadFromExcel", controller = "Countries"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UploadFromExcel() on controller CRUDExample.Controllers.CountriesController (ContactsManager.UI).
+2024-03-20 12:46:55.736 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:46:55.740 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:46:55.769 +05:30 [INF] Executing ViewResult, running view UploadFromExcel.
+2024-03-20 12:46:56.383 +05:30 [INF] Executed ViewResult - view UploadFromExcel executed in 609.5001ms.
+2024-03-20 12:46:56.412 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:46:56.433 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:46:56.434 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 23.0223ms
+2024-03-20 12:46:56.435 +05:30 [INF] Executed action CRUDExample.Controllers.CountriesController.UploadFromExcel (ContactsManager.UI) in 702.5848ms
+2024-03-20 12:46:56.456 +05:30 [INF] Executed endpoint 'CRUDExample.Controllers.CountriesController.UploadFromExcel (ContactsManager.UI)'
+2024-03-20 12:46:56.474 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Wed, 20 Mar 2024 07:16:56 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-03-20 12:46:56.488 +05:30 [INF] HTTP GET /Countries/UploadFromExcel responded 200 in 1746.2972 ms
+2024-03-20 12:46:56.551 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 117.9609ms
+2024-03-20 12:46:56.585 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Countries/UploadFromExcel - - - 200 - text/html;+charset=utf-8 1991.5961ms
+2024-03-20 12:46:59.017 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:46:59.017 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:46:59.028 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 10.2948ms
+2024-03-20 12:46:59.041 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.1863ms
+2024-03-20 12:47:01.247 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:01.247 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:01.250 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 2.8282ms
+2024-03-20 12:47:01.268 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 20.5929ms
+2024-03-20 12:47:02.734 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:02.734 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:02.747 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 13.3401ms
+2024-03-20 12:47:02.783 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.0353ms
+2024-03-20 12:47:03.090 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:03.090 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:03.107 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 17.0851ms
+2024-03-20 12:47:03.144 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.5693ms
+2024-03-20 12:47:07.052 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Register - -
+2024-03-20 12:47:07.071 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-03-20 12:47:07.102 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-20 12:47:07.107 +05:30 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-20 12:47:07.114 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:47:07.116 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:47:07.120 +05:30 [INF] Executing ViewResult, running view Register.
+2024-03-20 12:47:07.274 +05:30 [INF] Executed ViewResult - view Register executed in 155.3811ms.
+2024-03-20 12:47:07.278 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 164.9432ms
+2024-03-20 12:47:07.283 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-20 12:47:07.289 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Wed, 20 Mar 2024 07:17:06 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-03-20 12:47:07.292 +05:30 [INF] HTTP GET /Account/Register responded 200 in 220.6689 ms
+2024-03-20 12:47:07.304 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Register - - - 200 - text/html;+charset=utf-8 251.4705ms
+2024-03-20 12:47:07.318 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:07.320 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 2.6804ms
+2024-03-20 12:47:07.335 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:07.355 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.7233ms
+2024-03-20 12:47:11.456 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Register - -
+2024-03-20 12:47:11.466 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-03-20 12:47:11.498 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-20 12:47:11.501 +05:30 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-20 12:47:11.506 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:47:11.508 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 12:47:11.512 +05:30 [INF] Executing ViewResult, running view Register.
+2024-03-20 12:47:11.518 +05:30 [INF] Executed ViewResult - view Register executed in 6.4064ms.
+2024-03-20 12:47:11.521 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 15.3189ms
+2024-03-20 12:47:11.524 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-20 12:47:11.533 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Wed, 20 Mar 2024 07:17:11 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-03-20 12:47:11.535 +05:30 [INF] HTTP GET /Account/Register responded 200 in 68.5832 ms
+2024-03-20 12:47:11.539 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Register - - - 200 - text/html;+charset=utf-8 82.8296ms
+2024-03-20 12:47:11.561 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:11.561 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:11.565 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 4.2088ms
+2024-03-20 12:47:11.585 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.0305ms
+2024-03-20 12:47:14.494 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 12:47:14.494 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 12:47:14.507 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 13.0543ms
+2024-03-20 12:47:14.517 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.0440ms

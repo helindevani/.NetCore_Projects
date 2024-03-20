@@ -1,0 +1,53 @@
+2024-03-20 14:07:19.284 +05:30 [INF] User profile is available. Using 'C:\Users\Helin Devani\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-20 14:07:19.850 +05:30 [INF] Now listening on: http://localhost:5153
+2024-03-20 14:07:22.626 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - -
+2024-03-20 14:07:24.475 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-03-20 14:07:24.757 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-20 14:07:25.024 +05:30 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-20 14:07:25.062 +05:30 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5153/Account/Login?ReturnUrl=%2F
+2024-03-20 14:07:25.074 +05:30 [INF] HTTP GET / responded 302 in 622.2372 ms
+2024-03-20 14:07:25.159 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - - - 302 0 - 2568.0825ms
+2024-03-20 14:07:25.199 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login?ReturnUrl=%2F - -
+2024-03-20 14:07:25.212 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2024-03-20 14:07:25.260 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-20 14:07:25.363 +05:30 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-20 14:07:26.204 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 14:07:26.253 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 14:07:26.281 +05:30 [INF] Executing ViewResult, running view Login.
+2024-03-20 14:07:27.935 +05:30 [INF] Executed ViewResult - view Login executed in 1657.2254ms.
+2024-03-20 14:07:27.941 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 2554.368ms
+2024-03-20 14:07:27.949 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-20 14:07:27.954 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Wed, 20 Mar 2024 08:37:26 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-03-20 14:07:27.956 +05:30 [INF] HTTP GET /Account/Login responded 200 in 2743.8670 ms
+2024-03-20 14:07:27.985 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 2785.7952ms
+2024-03-20 14:07:28.105 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 14:07:28.186 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 14:07:28.271 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 165.6808ms
+2024-03-20 14:07:28.682 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 495.7276ms
+2024-03-20 14:07:31.034 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 14:07:31.036 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 2.3984ms
+2024-03-20 14:07:31.038 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 14:07:31.355 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 320.6954ms

@@ -1,0 +1,56 @@
+2024-03-20 14:08:51.904 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-20 14:08:53.213 +05:30 [INF] Hosting environment: Development
+2024-03-20 14:08:55.143 +05:30 [INF] Content root path: D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.UI\
+2024-03-20 14:15:59.380 +05:30 [INF] User profile is available. Using 'C:\Users\Helin Devani\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-20 14:16:00.170 +05:30 [INF] Now listening on: http://localhost:5153
+2024-03-20 14:16:11.973 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - -
+2024-03-20 14:16:13.894 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-03-20 14:16:14.114 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-20 14:16:14.634 +05:30 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-20 14:16:14.648 +05:30 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5153/Account/Login?ReturnUrl=%2F
+2024-03-20 14:16:14.678 +05:30 [INF] HTTP GET / responded 302 in 779.8241 ms
+2024-03-20 14:16:14.759 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - - - 302 0 - 2798.7134ms
+2024-03-20 14:16:14.857 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login?ReturnUrl=%2F - -
+2024-03-20 14:16:14.878 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2024-03-20 14:16:14.928 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-20 14:16:15.205 +05:30 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-20 14:16:16.279 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 14:16:16.421 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-20 14:16:16.471 +05:30 [INF] Executing ViewResult, running view Login.
+2024-03-20 14:16:17.308 +05:30 [INF] Executed ViewResult - view Login executed in 827.2484ms.
+2024-03-20 14:16:17.329 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 1957.4549ms
+2024-03-20 14:16:17.332 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 14:16:17.337 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-20 14:16:17.340 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Wed, 20 Mar 2024 08:46:16 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-03-20 14:16:17.341 +05:30 [INF] HTTP GET /Account/Login responded 200 in 2463.8221 ms
+2024-03-20 14:16:17.345 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 13.5134ms
+2024-03-20 14:16:17.369 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 2511.9190ms
+2024-03-20 14:16:17.380 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 14:16:17.696 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 316.0581ms
+2024-03-20 14:16:20.010 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-20 14:16:20.013 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 2.9972ms
+2024-03-20 14:16:20.024 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-20 14:16:20.157 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 132.8644ms

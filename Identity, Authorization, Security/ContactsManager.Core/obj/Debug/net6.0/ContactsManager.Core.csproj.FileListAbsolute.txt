@@ -1,0 +1,13 @@
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.sourcelink.json
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll

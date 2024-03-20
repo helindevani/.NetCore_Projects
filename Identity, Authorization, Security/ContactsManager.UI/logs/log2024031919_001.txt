@@ -1,0 +1,70 @@
+2024-03-19 19:09:04.169 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-19 19:09:04.183 +05:30 [INF] Hosting environment: Development
+2024-03-19 19:09:04.234 +05:30 [INF] Content root path: D:\.NetCore_Projects\Identity, Authorization, Security\ContactsManager.UI\
+2024-03-19 19:19:37.062 +05:30 [INF] User profile is available. Using 'C:\Users\Helin Devani\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-19 19:19:37.428 +05:30 [INF] Now listening on: http://localhost:5153
+2024-03-19 19:19:38.498 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-19 19:19:38.498 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-19 19:19:38.577 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 92.5678ms
+2024-03-19 19:19:38.793 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 310.8667ms
+2024-03-19 19:19:43.052 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Register - -
+2024-03-19 19:19:43.149 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-03-19 19:19:43.210 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-19 19:19:43.266 +05:30 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-19 19:19:43.688 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-19 19:19:43.693 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-19 19:19:43.707 +05:30 [INF] Executing ViewResult, running view Register.
+2024-03-19 19:19:44.185 +05:30 [INF] Executed ViewResult - view Register executed in 464.3501ms.
+2024-03-19 19:19:44.204 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-19 19:19:44.215 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 944.2641ms
+2024-03-19 19:19:44.215 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 11.2576ms
+2024-03-19 19:19:44.221 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-19 19:19:44.227 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 19 Mar 2024 13:49:43 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-03-19 19:19:44.232 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-19 19:19:44.239 +05:30 [INF] HTTP GET /Account/Register responded 200 in 1091.6412 ms
+2024-03-19 19:19:44.263 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Register - - - 200 - text/html;+charset=utf-8 1211.0732ms
+2024-03-19 19:19:44.311 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 78.9405ms
+2024-03-19 19:20:12.641 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Register application/x-www-form-urlencoded 284
+2024-03-19 19:20:12.652 +05:30 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-03-19 19:20:12.656 +05:30 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-19 19:20:12.690 +05:30 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-19 19:20:12.788 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-19 19:20:50.982 +05:30 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresLower;PasswordRequiresUpper.
+2024-03-19 19:23:34.430 +05:30 [INF] Before logic - ResponseHeaderActionFilter
+2024-03-19 19:23:34.456 +05:30 [INF] Executing ViewResult, running view Register.
+2024-03-19 19:23:34.471 +05:30 [INF] Executed ViewResult - view Register executed in 16.1283ms.
+2024-03-19 19:23:34.476 +05:30 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 201782.4742ms
+2024-03-19 19:23:34.480 +05:30 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-03-19 19:23:34.483 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 19 Mar 2024 13:53:34 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-03-19 19:23:34.485 +05:30 [INF] HTTP POST /Account/Register responded 200 in 201833.2839 ms
+2024-03-19 19:23:34.489 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Register application/x-www-form-urlencoded 284 - 200 - text/html;+charset=utf-8 201848.2137ms
+2024-03-19 19:23:34.541 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_vs/browserLink - -
+2024-03-19 19:23:34.603 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - -
+2024-03-19 19:23:34.651 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 47.8847ms
+2024-03-19 19:23:34.660 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5153/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 118.5906ms
