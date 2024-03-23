@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCore_Projects\\React And Cors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\fetchcities.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\fetchcities.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\addcity.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\addcity.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\updatecity.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\updatecity.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\store\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\store\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|d:\\.netcore_projects\\react and cors\\citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\deletecomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591A1E7B-7BDC-4525-BBF0-2CEF72FACD00}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesreactapp\\src\\components\\deletecomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FetchCities.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\FetchCities.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\FetchCities.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\FetchCities.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\FetchCities.jsx",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-23T07:10:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Store\\index.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Store\\index.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Store\\index.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Store\\index.jsx",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-23T07:06:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCity.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\UpdateCity.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\UpdateCity.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\UpdateCity.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\UpdateCity.jsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-23T05:31:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteComponent.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\DeleteComponent.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\DeleteComponent.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\DeleteComponent.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\DeleteComponent.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-23T05:04:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCity.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\AddCity.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\AddCity.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\AddCity.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\Components\\AddCity.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-22T06:45:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\App.jsx",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\App.jsx",
+              "ToolTip": "D:\\.NetCore_Projects\\React And Cors\\CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\App.jsx",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesReactApp\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-22T06:39:14.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
