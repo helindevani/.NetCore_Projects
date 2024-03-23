@@ -46,7 +46,7 @@ builder.Services.AddSwaggerGen(options =>
 
 });
 
-builder.Services.AddApiExplorer(options => {
+builder.Services.AddVersionedApiExplorer(options => {
     options.GroupNameFormat = "'v'VVV"; //v1
     options.SubstituteApiVersionInUrl = true;
 });

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ES8XuTQUJ05oA0NpBmRxPHWCw/kOvqJhnn/B2DVhXPRzUr3h3mqQmwNkblYC5EczH4Fss3MbszSNzjLLnIb/gA==",
+  "dgSpecHash": "oSs51jPFg+DVJNfHd7EEIngyFtLAPLiFVVjH86LnRt6WeNv7v6UUx3mR6QDaI7QtwXTGEQgnjXvexLOBnPtmeA==",
   "success": true,
   "projectFilePath": "D:\\.NetCore_Projects\\SwaggerAPI\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,7 @@
     "C:\\Users\\Helin Devani\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\Helin Devani\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
     "C:\\Users\\Helin Devani\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Helin Devani\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\Helin Devani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\Helin Devani\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\Helin Devani\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
