@@ -1,6 +1,90 @@
 [
   {
-    "ContainingType": "CitiesManager.WebAPI.Controllers.CitiesController",
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "IsEmailAlreadyRegistered",
+    "RelativePath": "api/Account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "GenerateNewAccessToken",
+    "RelativePath": "api/Account/generate-new-jwt-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenModel",
+        "Type": "CitiesManager.Core.DTO.TokenModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "PostLogin",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "CitiesManager.Core.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "GetLogout",
+    "RelativePath": "api/Account/logout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "PostRegister",
+    "RelativePath": "api/Account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDTO",
+        "Type": "CitiesManager.Core.DTO.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CitiesManager.Core.Identity.ApplicationUser",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.CitiesController",
     "Method": "GetCities",
     "RelativePath": "api/Cities",
     "HttpMethod": "GET",
@@ -9,7 +93,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CitiesManager.WebAPI.Models.City, CitiesManager.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CitiesManager.Core.Models.City, CitiesManager.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +104,7 @@
     ]
   },
   {
-    "ContainingType": "CitiesManager.WebAPI.Controllers.CitiesController",
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.CitiesController",
     "Method": "PostCity",
     "RelativePath": "api/Cities",
     "HttpMethod": "POST",
@@ -29,13 +113,13 @@
     "Parameters": [
       {
         "Name": "city",
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -46,28 +130,7 @@
     ]
   },
   {
-    "ContainingType": "CitiesManager.WebAPI.Controllers.CitiesController",
-    "Method": "PutCity",
-    "RelativePath": "api/Cities/{cityId}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "cityId",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "city",
-        "Type": "CitiesManager.WebAPI.Models.City",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CitiesManager.WebAPI.Controllers.CitiesController",
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.CitiesController",
     "Method": "GetCity",
     "RelativePath": "api/Cities/{cityID}",
     "HttpMethod": "GET",
@@ -82,7 +145,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -93,7 +156,28 @@
     ]
   },
   {
-    "ContainingType": "CitiesManager.WebAPI.Controllers.CitiesController",
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.CitiesController",
+    "Method": "PutCity",
+    "RelativePath": "api/Cities/{cityID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "city",
+        "Type": "CitiesManager.Core.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.CitiesController",
     "Method": "DeleteCity",
     "RelativePath": "api/Cities/{id}",
     "HttpMethod": "DELETE",

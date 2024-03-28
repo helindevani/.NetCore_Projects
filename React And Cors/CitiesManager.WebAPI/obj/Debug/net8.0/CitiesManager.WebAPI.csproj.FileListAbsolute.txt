@@ -507,7 +507,6 @@ D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\Cities
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.AssemblyInfoInputs.cache
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.AssemblyInfo.cs
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.csproj.CoreCompileInputs.cache
-D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.sourcelink.json
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.dll
@@ -761,3 +760,16 @@ D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\Cities
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\ref\CitiesManager.WebAPI.dll
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.WebAPI.xml
 D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.xml
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Core.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Infrastructure.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Core.pdb
+D:\.NetCore_Projects\React And Cors\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Infrastructure.pdb

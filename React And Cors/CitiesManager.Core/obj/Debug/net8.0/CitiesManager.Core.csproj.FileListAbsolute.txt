@@ -1,0 +1,13 @@
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.csproj.AssemblyReference.cache
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.AssemblyInfoInputs.cache
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.AssemblyInfo.cs
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.csproj.CoreCompileInputs.cache
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.sourcelink.json
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\bin\Debug\net8.0\CitiesManager.Core.deps.json
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\bin\Debug\net8.0\CitiesManager.Core.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\bin\Debug\net8.0\CitiesManager.Core.pdb
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\refint\CitiesManager.Core.dll
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\CitiesManager.Core.pdb
+D:\.NetCore_Projects\React And Cors\CitiesManager.Core\obj\Debug\net8.0\ref\CitiesManager.Core.dll
